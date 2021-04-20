@@ -1,6 +1,6 @@
 import json
 import argparse
-from .youtube_uploader_selenium import YouTubeUploader
+from youtube_uploader_selenium import YouTubeUploader
 from typing import Optional, DefaultDict
 from collections import defaultdict
 
